@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blockchair", "Blockchair\Blockchair.csproj", "{34E49407-9933-42C2-8517-D09566341DBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blockchair.Test", "Blockchair.Test\Blockchair.Test.csproj", "{FD7A35E8-79F0-411F-BF80-3F9E9FB8073C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34E49407-9933-42C2-8517-D09566341DBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34E49407-9933-42C2-8517-D09566341DBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34E49407-9933-42C2-8517-D09566341DBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34E49407-9933-42C2-8517-D09566341DBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD7A35E8-79F0-411F-BF80-3F9E9FB8073C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD7A35E8-79F0-411F-BF80-3F9E9FB8073C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD7A35E8-79F0-411F-BF80-3F9E9FB8073C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD7A35E8-79F0-411F-BF80-3F9E9FB8073C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E1261C9-C6A3-4086-8778-D93482F99245}
+	EndGlobalSection
+EndGlobal
